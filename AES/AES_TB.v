@@ -46,7 +46,7 @@ AES_DEC AES_DEC(
 // FIPS-197 Test Vectors
 reg [127:0] KE, KD, CT, PT;
 initial KE = 128'h000102030405060708090a0b0c0d0e0f; // Encryption Key
-initial KD = 128'h13111d7fe3944a17f307a78b4d2b30c5; // Decryption Key (Encryption finlarl round key)
+initial KD = 128'h13111d7fe3944a17f307a78b4d2b30c5; // Decryption Key (Encryption final round key)
 initial PT = 128'h00112233445566778899aabbccddeeff; // Plain Text
 initial CT = 128'h69c4e0d86a7b0430d8cdb78070b4c55a; // Cipher Text
 
