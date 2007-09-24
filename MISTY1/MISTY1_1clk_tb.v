@@ -1,4 +1,4 @@
-/* ---------------------------------------------------
+/* --------------------------------------------------- 
  Testbench for
  one round / one clock version of MISTY1 Macro (ASIC version)
  

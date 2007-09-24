@@ -1,5 +1,5 @@
 /*-------------------------------------------------------------------------
- MISTY1 Encryption/Decryption Macro
+ MISTY1 Encryption/Decryption Macro 
  one round / one clock version, ASIC version
  
  File name   : MISTY1_1clk.v
