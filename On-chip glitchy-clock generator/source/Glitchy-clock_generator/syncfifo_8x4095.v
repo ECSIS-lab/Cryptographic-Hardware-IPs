@@ -25,8 +25,12 @@
  from the use of this code.
  
  When you publish any results arising from the use of this code, we will
- appreciate it if you can cite our webpage
- (http://www.rcis.aist.go.jp/special/SASEBO/).
+ appreciate it if you can cite as following.
+ @misc{tohoku-crypto-ip,
+  author={Tohoku University ECSIS laboratory},
+  title={Cryptographic IP cores},
+  howpublished = {https://github.com/ECSIS-lab/IP_cores}
+ }
  -------------------------------------------------------------------------*/ 
 
 
