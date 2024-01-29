@@ -1,4 +1,4 @@
-/* ---------------------------------------------------
+/* --------------------------------------------------- 
  Testbench for
  one round / one clock version of MISTY1 Macro (ASIC version)
  
@@ -26,8 +26,12 @@
  from the use of this code.
  
  When you publish any results arising from the use of this code, we will
- appreciate it if you can cite our webpage
- (http://www.aoki.ecei.tohoku.ac.jp/crypto/).
+ appreciate it if you can cite as following.
+ @misc{tohoku-crypto-ip,
+  author={Tohoku University ECSIS laboratory},
+  title={Cryptographic IP cores},
+  howpublished = {https://github.com/ECSIS-lab/IP_cores}
+ }
  -------------------------------------------------------------------------*/ 
 
 module MISTY1_tb;

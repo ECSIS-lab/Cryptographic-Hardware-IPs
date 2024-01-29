@@ -16,7 +16,6 @@
 // Revision: 
 // Revision 0.01 - File Created
 // Additional Comments: 
-//
 //////////////////////////////////////////////////////////////////////////////////
 module para_to_seq_mod(clk, rst, rdy, crt, mod_in, predat_in, data_out);
    parameter RSA_LEN = 512;
