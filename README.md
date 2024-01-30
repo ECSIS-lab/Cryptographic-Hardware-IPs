@@ -17,6 +17,6 @@ Please use the following bibtex entry to cite the entire repository. The README 
 @misc{tohoku-crypto-ip,
   author       = {{Tohoku University ECSIS Laboratory}},
   title        = {Cryptographic {IP} cores},
-  howpublished = {\url{https://github.com/ECSIS-lab/IP{\_}cores}},
+  howpublished = {\url{https://github.com/ECSIS-lab/Cryptographic-Hardware-IPs}},
 }
 ```
