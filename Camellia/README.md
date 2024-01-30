@@ -8,5 +8,5 @@ The key length is limited to 128 bits.
 
 ## CamelliaSpec2007Sep25.pdf
 
-Specification form for Camellia.v (Draft version)
+A Specification document for Camellia.v (Draft version).
 (Update 2007/Sep/25)
